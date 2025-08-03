@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# uploads folder - קבצים שמועלים על ידי המשתמשים
+uploads/
+
+# Logs
+logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
